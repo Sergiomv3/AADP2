@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Principal" >
+    <item android:id="@+id/action_add"
+        android:title="@string/menu_aniadir"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_salvar"
+        android:icon="@drawable/load"
+        android:title="@string/action_salvar"
+        android:showAsAction="ifRoom"
+       />
+    <item android:id="@+id/action_cargar"
+        android:icon="@drawable/load2"
+        android:title="@string/action_cargar"
+
+        android:showAsAction="ifRoom" />
+
+</menu>

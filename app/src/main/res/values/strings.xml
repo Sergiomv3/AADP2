@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListaSH</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_titulodialogo">Añadir a la lista</string>
+    <string name="tv_titulodialogoedit">Editando elemento...</string>
+    <string name="box_software">Software</string>
+    <string name="box_hardware">Hardware</string>
+    <string name="tv_1dialogo">Nombre nuevo:</string>
+    <string name="tv_2dialogo">Precio nuevo:</string>
+    <string name="menu_aniadir">Añadir nuevo componente</string>
+    <string name="menu_borrar">Borrar componente</string>
+    <string name="menu_editar">Editar componente</string>
+    <string name="bt_ordenar">Ordenar lista</string>
+    <string name="bt_editar">Aceptar cambios</string>
+    <string name="action_cargar">Cargar datos</string>
+    <string name="action_salvar">Guardar datos</string>
+    <string name="title_activity_dialogo_edit">Editar elemento</string>
+
+</resources>
